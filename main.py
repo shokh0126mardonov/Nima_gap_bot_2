@@ -1,4 +1,4 @@
-from config import TOKEN
+from config.config import TOKEN
 from telegram.ext import (
     Updater,
     CommandHandler,
